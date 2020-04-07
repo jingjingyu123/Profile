@@ -1,0 +1,15 @@
+.header{
+    display: flex;
+}
+.nav-bar > div{
+    padding:10px;
+}
+.tab{
+    background-color: yellow;
+}
+.tab.extra{
+    background-color:blue;
+}
+.main-body {
+    display: flex;
+}
